@@ -1,0 +1,11 @@
+Package: EnCro
+Version: 0.018
+Title: Simulation of Energycane and Sugarcane
+Author: Deepak Jaiswal <djaiswal@uiuc.edu>
+Maintainer: Deepak Jaiswal <djaiswal@uiuc.edu>
+Depends: R(>= 2.5.0), lattice
+Suggests: coda
+Imports: stats
+Description:SugarPhenoParms function (BioCro.R) is implemented to read input
+License: GPL (version 2 or later)
+Packaged: 2012-02-02 20:06:10 UTC; djaiswal
